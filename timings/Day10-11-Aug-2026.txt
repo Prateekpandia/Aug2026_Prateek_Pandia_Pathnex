@@ -1,0 +1,35 @@
+What I did today
+
+took the 6AM morning class.
+
+1 hour studied linux.
+
+2 hour studied docker and took the july docker class.
+
+1.5 hour completed the pending and todays coding and timing tasks.
+
+1.5 hour studied AWS using notes and chatgpt.
+
+30 min prepared Introduction video and 10 min to record it.
+
+30 min revising the docker class of today and preparing for evening class.
+
+15 min evening class.
+
+
+
+What I will do tomorrow -
+
+At 6AM attend the morning class.
+
+1.5 hour study Linux.
+
+2.5 hour study Kubernetes, revise it, revise docker.
+
+1.5 hour study AWS with notes and chatgpt.
+
+30 min prepare Introduction video and 10 min to record it.
+
+30 min revising what I will study tomorrow and prepare for evening session.
+
+15 min evening class.
